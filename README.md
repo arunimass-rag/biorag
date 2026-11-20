@@ -73,4 +73,4 @@ _Results will be added here once the evaluation runs._
 
 ## Author
 
-**Arunima Sikdar, Ph.D.** · LinkedIn: add your profile URL here · Structural biologist and data scientist working on LLM evaluation and responsible AI.
+**Arunima Sikdar, Ph.D.** · [LinkedIn](https://www.linkedin.com/in/arunimasikdar/): add your profile URL here · Structural biologist and data scientist working on LLM evaluation and responsible AI.
