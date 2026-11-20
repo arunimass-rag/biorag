@@ -1,1 +1,32 @@
+# Secrets: never commit these
+.env
+.env.*
+!.env.example
+*.pem
+.aws/
 
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Downloaded data and generated files (rebuilt by ingest.py)
+data/abstracts/
+data/*.csv
+faiss_index/
+*.faiss
+*.pkl
+
+# Logs and evaluation output
+*.log
+eval_results/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
